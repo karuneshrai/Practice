@@ -10,7 +10,7 @@ import struct
 import sys
 import re
 import argparse
-
+# Calculator used for calculating the vol of 3D objects
 class materialsFor3DPrinting:
     def __init__(self):
         self.materials_dict = {
